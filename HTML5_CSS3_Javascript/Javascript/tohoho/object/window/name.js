@@ -1,3 +1,0 @@
-function name(){
-    window.name();
-};
