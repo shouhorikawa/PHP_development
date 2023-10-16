@@ -12,5 +12,3 @@ window.self ☛ self　自分自身
 window.top ☛ top　フレーム分割の際のトップ
 window.parent ☛ parent　フレーム分割のひとつ親
 window.name　☛ name　その名前を持つウィンドウ（フレーム）オブジェクト
-
-
